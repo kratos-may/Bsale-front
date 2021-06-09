@@ -1,5 +1,5 @@
 var baseUrl = "https://back-bsale.herokuapp.com/";
-
+console.log(baseUrl)
 function getCategories(url) {
   /*Metodo que me carga las categorias apenas el dom carga*/
   fetch(`${baseUrl}${url}`)
