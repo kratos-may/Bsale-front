@@ -1,4 +1,4 @@
-var baseUrl = "http://localhost:3000/";
+var baseUrl = "https://back-bsale.herokuapp.com/";
 
 function getCategories(url) {
   /*Metodo que me carga las categorias apenas el dom carga*/
